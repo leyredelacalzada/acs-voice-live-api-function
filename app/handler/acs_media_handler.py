@@ -408,7 +408,7 @@ def session_config():
             "input_audio_noise_reduction": {"type": "azure_deep_noise_suppression"},
             "input_audio_echo_cancellation": {"type": "server_echo_cancellation"},
             "voice": {
-                "name": "es-ES-Ximena:DragonHDLatestNeural",
+                "name": "en-US-Ava:DragonHDLatestNeural",
                 "type": "azure-standard",
                 "temperature": 0.8,
             },
